@@ -1,0 +1,25 @@
+.first{
+    background-color: pink;
+    height: 500px;
+    width: 500px;
+    border-radius: 60%;
+
+}
+
+body{
+    margin-left: 30%;
+    justify-content: center;
+    margin-top: 15%;
+
+}
+
+.sec{
+    background-color: darkgray;
+    height: 100px;
+    width: 300px;
+    position: relative;
+    left: 110px;
+    top: 190px;
+    
+    font-size: 80px;
+}
